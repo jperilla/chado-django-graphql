@@ -42,13 +42,17 @@ TODO
 
 ## Built With
 
+* [Python3](https://www.python.org/doc/) - Python3 as the language
 * [Django](https://docs.djangoproject.com/en/2.0/) - The web framework used
 * [GraphQL](https://graphql.org/) - Query language for APIs
 * [Graphene](http://graphene-python.org/) - Library to build GraphQL API
 
 ## Authors
 
-* **Julie Perila Garcia** - *Initial work* - (https://github.com/jperilla) - (http://julieperilla.com/)
+* **Julie Perila Garcia**
+  * *Initial work*
+  * https://github.com/jperilla
+  * http://julieperilla.com/
 
 ## License
 
